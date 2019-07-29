@@ -1,0 +1,10 @@
+{
+    "bloodDonors":[
+        {"id":101,"donorName":"Ramesh","bloodGroup":"opos","phoneNumber":"989990","lastDonated":"2019-06-12"},
+        {"id":102,"donorName":"Rajesh","bloodGroup":"apos","phoneNumber":"123123","lastDonated":"2019-05-02"},
+        {"id":103,"donorName":"Rakesh","bloodGroup":"bpos","phoneNumber":"444121","lastDonated":"2019-03-22"}
+
+    ],
+    "hospitals" : [],
+    "sponsors" : []
+}
